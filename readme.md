@@ -1,4 +1,5 @@
 1. C1
+<<<<<<< HEAD
 2. C2 bugFix
 3. C3 bugFix
 5.
@@ -6,4 +7,4 @@
 7.
 8. C8 bugFix
 9.
-10.
+10. c10 bugFix
