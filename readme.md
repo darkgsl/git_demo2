@@ -4,7 +4,7 @@
 4. C4 newBranchDeatchedHead
 5.
 6.
-7.
+7. C7 newBranchDeatchedHead
 8.
 9.
 10.
